@@ -2,14 +2,12 @@
   <img alt="Icon" src="./Frontend/src/assets/logo.svg" width="250"/>
 </p>
 
-## Descrição
+## Description
+Be The Hero is a project developed during the OmniStack week promoted by Rocketseat, with the objective of creating an application using JavaScript in the backend, web frontend, and mobile.
 
-O Be The Hero é um projeto desenvolvido na semana OmniStack promovido pela Rocketseat, com o objetivo de criar uma aplicação utilizando JavaScript no backend, frontend web e mobile.
+The application allows for the registration of ONG's and their causes, allowing interested individuals to financially support them.
 
-A aplicação possibilita o cadastro de ONGs e suas causas, permitindo que pessoas interessadas ajudem financeiramente.
-
-### Tecnologias
-- `Backend`  Node.js
-- `Web` ReactJS
-- `Mobile` Reacte Native
-
+## Technologies
+- `Backend: Node.js`
+- `Web: ReactJS`
+- `Mobile: React Native` 
